@@ -11,7 +11,7 @@
     "example": "node examples/basic-usage.js"
   },
   "name": "@elzazo/dld-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Download files by url and save them in specifique path",
   "main": "index.js",
   "author": "elzazo",
