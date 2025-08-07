@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@el-zazo/console-messages": "^0.0.1",
+    "@el-zazo/main-utils": "^0.0.1",
+    "@el-zazo/path-utils": "^0.0.1",
+    "ansi-color": "^0.2.1",
+    "axios": "^1.9.0",
+    "cli-progress": "^3.12.0"
+  },
+  "scripts": {
+    "example": "node examples/basic-usage.js"
+  },
+  "name": "@el-zazo/dld-utils",
+  "version": "0.0.1",
+  "description": "Download files by url and save them in specifique path",
+  "main": "index.js",
+  "author": "el-zazo",
+  "license": "ISC"
+}
