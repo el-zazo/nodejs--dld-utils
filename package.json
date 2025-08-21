@@ -15,5 +15,12 @@
   "description": "Download files by url and save them in specifique path",
   "main": "index.js",
   "author": "el-zazo",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/el-zazo/npm-package--dld-utils.git"
+  },
+  "publishConfig": {
+    "@el-zazo:registry": "https://npm.pkg.github.com"
+  }
 }
